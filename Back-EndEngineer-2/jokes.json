@@ -1,0 +1,44 @@
+[
+	{
+		"key": "pure-bread-dog",
+		"start": "01-01",
+		"stop": "12-31",
+		"source": "https://api.api-ninjas.com/v1/dadjokes",
+		"text": "Every time I take my dog to the park, the ducks try to bite him. That’s what I get for buying a pure bread dog."
+	},
+	{
+		"key": "time-travel",
+		"start": "01-01",
+		"stop": "12-31",
+		"source": "https://api.api-ninjas.com/v1/dadjokes",
+		"text": "I have a joke about time travel, but you guys didn’t get it."
+	},
+	{
+		"key": "chiropractor",
+		"start": "01-01",
+		"stop": "12-31",
+		"source": "https://api.api-ninjas.com/v1/dadjokes",
+		"text": "At first, I thought my chiropractor wasn\u2019t any good, but now I stand corrected."
+	},
+	{
+		"key": "ocean-said-to-the-beach",
+		"start": "01-01",
+		"stop": "12-31",
+		"source": "https://icanhazdadjoke.com/",
+		"text": "What did the ocean say to the beach? Thanks for all the sediment."
+	},
+	{
+		"key": "skeleton-walked-into-a-bar",
+		"start": "10-01",
+		"stop": "10-31",
+		"source": "https://icanhazdadjoke.com/",
+		"text": "A Skeleton walked into a bar he said I need a beer and a mop"
+	},
+	{
+		"key": "dead-batteries",
+		"start": "01-01",
+		"stop": "12-31",
+		"source": "https://icanhazdadjoke.com/",
+		"text": "I gave all my dead batteries away today, free of charge."
+	}
+]
