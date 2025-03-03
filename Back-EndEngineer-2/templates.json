@@ -1,0 +1,74 @@
+[
+	{
+		"key": "january",
+		"start": "01-01",
+		"stop": "01-31",
+		"template": "Brr, it is cold outside. Here is a joke to warm you up.\n\n{{joke}}\nSource: {{{source}}}\n\n"
+	},
+	{
+		"key": "february",
+		"start": "02-01",
+		"stop": "02-29",
+		"template": "Here is a joke for your valentine sweetie:\n\n{{joke}}\nSource: {{{source}}}\n\n"
+	},
+	{
+		"key": "march",
+		"start": "03-01",
+		"stop": "03-31",
+		"template": "The leprechauns are all laughing at this joke.\n\n{{joke}}\nSource: {{{source}}}\n\n"
+	},
+	{
+		"key": "april",
+		"start": "04-01",
+		"stop": "04-30",
+		"template": "April showers brings more jokes:\n\n{{joke}}\nSource: {{{source}}}\n\n"
+	},
+	{
+		"key": "may",
+		"start": "05-01",
+		"stop": "05-31",
+		"template": "May the jokes be with you:\n\n{{joke}}\nSource: {{{source}}}\n\n"
+	},
+	{
+		"key": "june",
+		"start": "06-01",
+		"stop": "06-30",
+		"template": "Begin summer with this joke:\n\n{{joke}}\nSource: {{{source}}}\n\n"
+	},
+	{
+		"key": "july",
+		"start": "07-01",
+		"stop": "07-31",
+		"template": "Have a good laugh with this joke:\n\n{{joke}}\nSource: {{{source}}}\n\n"
+	},
+	{
+		"key": "august",
+		"start": "08-01",
+		"stop": "08-31",
+		"template": "It is National Aviation Month, let start it off with a good joke:\n\n{{joke}}\nSource: {{{source}}}\n\n"
+	},
+	{
+		"key": "september",
+		"start": "09-01",
+		"stop": "09-30",
+		"template": "A beautiful time of year deserves a beautiful joke:\n\n{{joke}}\nSource: {{{source}}}\n\n"
+	},
+	{
+		"key": "october-1",
+		"start": "10-01",
+		"stop": "10-31",
+		"template": "Caution: a spooky joke for a spooky time of year:\n\n{{joke}}\nSource: {{{source}}}\n\n"
+	},
+	{
+		"key": "november",
+		"start": "11-01",
+		"stop": "11-30",
+		"template": "I am thankful for this joke:\n\n{{joke}}\nSource: {{{source}}}\n\n"
+	},
+	{
+		"key": "december",
+		"start": "12-01",
+		"stop": "12-31",
+		"template": "Ho, ho, ho. Here is a funny joke to get you laughing out loud.\n\n{{joke}}\nSource: {{{source}}}\n\n"
+	}
+]

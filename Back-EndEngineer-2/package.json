@@ -1,0 +1,16 @@
+{
+	"name": "back-end-engineer",
+	"type": "module",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Nneba13",
+	"license": "ISC",
+	"description": "",
+	"scripts": {
+		"exec": "node .",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"mustache": "^4.2.0"
+	}
+}
